@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/End-Sem-Amazon-Music-Clone---EndSem-Project-Amazon-Music-Clone---mbl3ivszpwxw/static/css/main.2866314b.css",
+    "main.js": "/End-Sem-Amazon-Music-Clone---EndSem-Project-Amazon-Music-Clone---mbl3ivszpwxw/static/js/main.2743d117.js",
+    "index.html": "/End-Sem-Amazon-Music-Clone---EndSem-Project-Amazon-Music-Clone---mbl3ivszpwxw/index.html",
+    "main.2866314b.css.map": "/End-Sem-Amazon-Music-Clone---EndSem-Project-Amazon-Music-Clone---mbl3ivszpwxw/static/css/main.2866314b.css.map",
+    "main.2743d117.js.map": "/End-Sem-Amazon-Music-Clone---EndSem-Project-Amazon-Music-Clone---mbl3ivszpwxw/static/js/main.2743d117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2866314b.css",
+    "static/js/main.2743d117.js"
+  ]
+}
